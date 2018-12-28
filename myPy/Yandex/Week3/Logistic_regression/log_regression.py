@@ -1,7 +1,5 @@
 import pandas as pd
-from math import exp
 from scipy.spatial import distance
-from sklearn.metrics import roc_auc_score
 from copy import copy
 
 # 1. Загрузите данные из файла data-logistic.csv. Это двумерная выборка, целевая переменная на которой
